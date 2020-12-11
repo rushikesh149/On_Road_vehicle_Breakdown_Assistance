@@ -1,0 +1,6 @@
+2020-12-11 12:36:53 DEBUG logging:38 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-12-11 12:37:17 ERROR Validator:31 - Admin invalid
+2020-12-11 12:37:34 DEBUG logging:38 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-12-11 12:37:55 INFO  Validator:25 - Admin validated
+2020-12-11 12:38:02 INFO  AdminServiceImpl:28 - View mechanic
+2020-12-11 12:38:02 INFO  MechanicDAOImpl:34 - Mechanic viewed
